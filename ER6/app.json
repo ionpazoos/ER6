@@ -10,15 +10,15 @@
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#686868"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#686868"
       },
       "package": "com.pazoos.ER6"
     },
@@ -37,6 +37,7 @@
       "eas": {
         "projectId": "b67ef17c-782a-48ba-b021-76a2579e5154"
       }
-    }
+    },
+    "owner": "er6"
   }
 }
