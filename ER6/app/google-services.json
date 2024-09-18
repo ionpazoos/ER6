@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543470882305",
+    "project_id": "ethazium-f4db5",
+    "storage_bucket": "ethazium-f4db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543470882305:android:ed62878da39fa1e021fa00",
+        "android_client_info": {
+          "package_name": "com.pazoos.ER6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0WimlKRQtiV3QVNkd0iB2oH2Kn4a1zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
